@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Quant Analysis Project
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 👯 I’m looking to collaborate on @Durgareddy5
 - 📫 How to reach me: duurgaaprasadreddy@gmail.com
 
